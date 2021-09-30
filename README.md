@@ -1,0 +1,2 @@
+# SubmoduleRepository_Kondratiuk
+Submodule Repository
